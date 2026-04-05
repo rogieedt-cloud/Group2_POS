@@ -53,15 +53,15 @@ body {
 
 .box.payment-options form {
   display: flex;
-  flex-direction: column; /* stack options vertically */
-  align-items: center;    /* center horizontally */
-  gap: 15px;              /* spacing between options */
+  flex-direction: column; 
+  align-items: center;    
+  gap: 15px;              
 }
 
 .box.payment-options p {
   display: flex;
   align-items: center;
-  gap: 8px; /* space between radio and label */
+  gap: 8px; 
   margin: 0;
 }
 
